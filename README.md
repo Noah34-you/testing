@@ -10,7 +10,7 @@ Plain static site — no build step, no dependencies:
 - `index.html` — single-page site (hero, look archive, 5 look features, shop grid, editorial, footer)
 - `styles.css` — full design system
 - `app.js` — header state, scroll reveals, archive hover preview, demo newsletter
-- `images/` — 13 brand photos (JPEG, optimized)
+- `images/` — 13 brand photos (PNG)
 
 ## Deploy on GitHub Pages
 
